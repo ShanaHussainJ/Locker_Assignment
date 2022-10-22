@@ -1,0 +1,50 @@
+.text{
+    width: 220px;
+    height: 55px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 28px;
+    background: #d9deff;
+    border: 1px solid #363b5e;
+
+}
+#pwd{
+    margin: 10px auto 10px auto;
+    padding: 10px;
+    display: block;
+    width: 50%;
+    font-size: 0.5em;
+    text-align: center;
+    letter-spacing: 0.2em;
+    background: rgba(0, 0, 0, 0.15);
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    cursor: default;
+  }
+
+.btn {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    background: rgba(0, 0, 0, 0.15);
+    color: #363b5e;
+    border-radius: 50%;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+    background: #d9deff;
+  }
+.locker{
+    width: 33%;
+    height: 50%;
+    padding-top: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+    border: 1px solid #363b5e;
+}
+.main-screen{
+    padding-left: 553px;
+    padding-top: 50px;
+}
