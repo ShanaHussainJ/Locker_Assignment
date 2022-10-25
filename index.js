@@ -8,10 +8,10 @@ function enterpwd(){
     var text=document.getElementById("pwd").value
     if (text == 1234) {
         alert("Success!");
-        document.getElementById("pwd").value=""
+        clearscreen()
       } else {
         alert("Incorrect Password");
-        document.getElementById("pwd").value=""
+        clearscreen()
       }
     
 }
